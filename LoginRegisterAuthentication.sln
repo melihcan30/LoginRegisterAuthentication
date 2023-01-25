@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginRegisterAuthentication", "LoginRegisterAuthentication\LoginRegisterAuthentication.csproj", "{88C5C8A6-5083-4236-ABFD-15FBF69D741A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C5C8A6-5083-4236-ABFD-15FBF69D741A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C5C8A6-5083-4236-ABFD-15FBF69D741A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C5C8A6-5083-4236-ABFD-15FBF69D741A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C5C8A6-5083-4236-ABFD-15FBF69D741A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE31FE7D-13C7-4743-9970-2E31B5CCBC43}
+	EndGlobalSection
+EndGlobal
